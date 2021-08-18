@@ -20,4 +20,9 @@ SVC <br/>
 MultinomialNB <br/>
 DecisionTreeClassifier <br/>
 KNeighborsClassifier <br/>
-RandomForestClassifier
+RandomForestClassifier <br/>
+
+Among these models, Logistic regression gave the results with highest accuracy. 
+
+Data Used : Disaster Tweet Classification dataset from Kaggle
+[https://www.kaggle.com/c/nlp-getting-started]
