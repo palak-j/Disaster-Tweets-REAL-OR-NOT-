@@ -8,5 +8,16 @@ These techniques involves-
 3. Lemmatization
 4. Vectorization
 
+In this model we used-
+1. Tokenizer : RegexpTokenizer
+2. Stopwords : stopwords.words("english")
+3. Lemmatization : WordNetLemmatizer
+4. Vectorization : CountVectorizer
 
-
+After performing all the required NLP operations, I created various classification model which includes <br/>
+LogisticRegression <br/>
+SVC <br/>
+MultinomialNB <br/>
+DecisionTreeClassifier <br/>
+KNeighborsClassifier <br/>
+RandomForestClassifier
