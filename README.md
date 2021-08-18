@@ -14,7 +14,7 @@ In this model we used-
 3. Lemmatization : WordNetLemmatizer
 4. Vectorization : CountVectorizer
 
-After performing all the required NLP operations, I created various classification model which includes <br/>
+After performing all the required NLP operations, I created various classification model which includes :<br/><br/>
 LogisticRegression <br/>
 SVC <br/>
 MultinomialNB <br/>
